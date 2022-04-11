@@ -1,0 +1,10 @@
+D:\LTWINDOWS\MiniWord_Phap\bin\Debug\MiniWord_Phap.exe.config
+D:\LTWINDOWS\MiniWord_Phap\bin\Debug\MiniWord_Phap.exe
+D:\LTWINDOWS\MiniWord_Phap\bin\Debug\MiniWord_Phap.pdb
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.csproj.AssemblyReference.cache
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.Form1.resources
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.Properties.Resources.resources
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.csproj.GenerateResource.cache
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.csproj.CoreCompileInputs.cache
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.exe
+D:\LTWINDOWS\MiniWord_Phap\obj\Debug\MiniWord_Phap.pdb
